@@ -1,0 +1,34 @@
+body
+{
+background-position: center;
+background: rgb(152, 205, 226);
+}
+.header{
+    margin:0;
+    text-align: center;
+    font-style:normal;
+    background-color: rgb(152, 205, 226);
+    padding: 0px;
+    color: rgb(106, 107, 109);
+    position: relative;
+    font-size: 20px;
+    
+}
+#btn{
+    position: relative;
+    bottom: 40px;
+    margin: 20px;
+    border-radius: 5px;
+    padding: 6px;
+
+}
+#finder{
+    position: relative;
+    bottom: 40px;
+    border-radius: 5px;
+    padding: 6px;
+    text-align: center;
+    font-weight: normal;
+    width: 180px;
+
+}
